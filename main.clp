@@ -226,7 +226,7 @@
 			[Input1]
 			[Input1]))
 
-	([([AdderA2] of  Adder
+	([AdderA2] of  Adder
 
 		(exit TRUE)
 		(isEntered
